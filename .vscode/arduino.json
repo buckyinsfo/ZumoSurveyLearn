@@ -1,0 +1,7 @@
+{
+    "port": "COM3",
+    "programmer": "ArduinoISP",
+    "board": "arduino:avr:uno",
+    "sketch": "src\\ZumoSurveyLearn.ino",
+    "output": ".\\build"
+}
